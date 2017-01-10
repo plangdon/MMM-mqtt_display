@@ -13,7 +13,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
 	{
-		module: 'MMM-mqtt',
+		module: 'MMM-mqtt_display',
 		position: 'top_right',	// This can be any of the regions. Best results in left or right regions.
 		header: 'Alexa Speaks', // This is optional
 		config: {
