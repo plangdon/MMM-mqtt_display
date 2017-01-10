@@ -2,7 +2,7 @@
 "name": "mmm-mqtt_display",
 "version": "0.1.0",
 "description": "MQTT Display Module for MagicMirror",
-"main": "index.js",
+"main": "MMM-mqtt_display.js",
 "scripts": {
 "test": "echo \"Error: no test specified\" && exit 1"
 },
