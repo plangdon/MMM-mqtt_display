@@ -31,7 +31,7 @@ The following options can be configured:
 |---|---|
 | `mqttServer`  | Connection string for the server to connect to (`mqtt://localhost`)  |
 | `loadingText`  | Text to display while waiting for data to load  |
-| `topic`  | MQTT Topic to subscribe to on the server (`sensors/temperature/livingroom`)  |
+| `topic`  | MQTT Topic to subscribe to on the server (`alexa/mmm/display`)  |
 | `showTitle`  | Boolean to show/hide a title (default: `false`)  |
 | `title`  | Title to show if `showTitle` is `true`  |
 | `interval`  | Refresh interval, not including MQTT subscription deliveries. (default: `300000`)  |
